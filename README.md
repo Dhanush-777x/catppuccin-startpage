@@ -72,3 +72,5 @@ You can use different add-ons/extensions for it
 | cbg-10                                           | cbg-11                                           | cbg-12                                           | cbg-13                                           |
 | ------------------------------------------------ | ------------------------------------------------ | ------------------------------------------------ | ------------------------------------------------ |
 | <img src="src/img/banners/cbg-10.gif" width=175> | <img src="src/img/banners/cbg-11.gif" width=175> | <img src="src/img/banners/cbg-12.gif" width=175> | <img src="src/img/banners/cbg-13.gif" width=175> |
+
+Cloned and modified from [catppuccin-startpage](https://github.com/pivoshenko/catppuccin-startpage). Thank you :)
